@@ -86,9 +86,30 @@ switch (input) {
              });
         break;
     case "do-what-it-says":
-        output = "do what it says";
+            fs.readFile("random.txt", "utf8", function(error, data) {
+
+                // If the code experiences any errors it will log the error to the console.
+                if (error) {
+                  return console.log(error);
+                }
+              
+                // We will then print the contents of data
+                console.log(data);
+              
+                // Then split it by commas (to make it more readable)
+                let dataArr = data.split(",");
+              
+                // We will then re-display the content as an array for later use.
+                console.log(dataArr);
+                if (dataArr.length == 2) {
+                    pick(dataArr[0], dataArr[1])
+                } else if (dataArr.length == 1) {
+                    pick(dataArr[0])
+                }
+              
+              });
         break;
     default:
-        output = "Not a recognized command";
+        console.log("Not a recognized command");
         break;
 }
