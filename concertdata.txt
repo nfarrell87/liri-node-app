@@ -1,0 +1,505 @@
+[
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100868371?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Xfinity Center",
+      "country": "United States",
+      "region": "MA",
+      "city": "Mansfield",
+      "latitude": "41.994331",
+      "longitude": "-71.210648"
+    },
+    "datetime": "2019-08-09T19:00:00",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Korn",
+      "Alice in Chains",
+      "Underoath",
+      "Ho99o9"
+    ],
+    "id": "100868371",
+    "artist_id": "57",
+    "url": "https://www.bandsintown.com/e/100868371?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100868375?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Xfinity Theatre",
+      "country": "United States",
+      "region": "CT",
+      "city": "Hartford",
+      "latitude": "41.782583",
+      "longitude": "-72.668523"
+    },
+    "datetime": "2019-08-10T19:00:14",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Korn",
+      "Alice in Chains",
+      "Underoath"
+    ],
+    "id": "100868375",
+    "artist_id": "57",
+    "url": "https://www.bandsintown.com/e/100868375?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100868376?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Saratoga Performing Arts Center",
+      "country": "United States",
+      "region": "NY",
+      "city": "Saratoga Springs",
+      "latitude": "43.055419",
+      "longitude": "-73.805927"
+    },
+    "datetime": "2019-08-11T19:00:59",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Korn",
+      "Alice in Chains",
+      "Underoath"
+    ],
+    "id": "100868376",
+    "artist_id": "57",
+    "url": "https://www.bandsintown.com/e/100868376?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100868378?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "DTE Energy Music Theatre",
+      "country": "United States",
+      "region": "MI",
+      "city": "Clarkston",
+      "latitude": "42.748783",
+      "longitude": "-83.380201"
+    },
+    "datetime": "2019-08-13T19:00:49",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Korn",
+      "Alice in Chains",
+      "Underoath"
+    ],
+    "id": "100868378",
+    "artist_id": "57",
+    "url": "https://www.bandsintown.com/e/100868378?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100868381?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Budweiser Stage",
+      "country": "Canada",
+      "region": "",
+      "city": "Toronto",
+      "latitude": "43.6293322",
+      "longitude": "-79.4150723"
+    },
+    "datetime": "2019-08-14T19:00:37",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Korn",
+      "Alice in Chains",
+      "Underoath"
+    ],
+    "id": "100868381",
+    "artist_id": "57",
+    "url": "https://www.bandsintown.com/e/100868381?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100868382?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Blossom Music Center",
+      "country": "United States",
+      "region": "OH",
+      "city": "Cuyahoga Falls",
+      "latitude": "41.1913853",
+      "longitude": "-81.5604023"
+    },
+    "datetime": "2019-08-16T19:00:14",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Korn",
+      "Alice in Chains",
+      "Underoath"
+    ],
+    "id": "100868382",
+    "artist_id": "57",
+    "url": "https://www.bandsintown.com/e/100868382?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100868383?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "KeyBank Pavilion",
+      "country": "United States",
+      "region": "PA",
+      "city": "Burgettstown",
+      "latitude": "40.42359",
+      "longitude": "-80.42678"
+    },
+    "datetime": "2019-08-17T19:00:48",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Korn",
+      "Alice in Chains",
+      "Underoath"
+    ],
+    "id": "100868383",
+    "artist_id": "57",
+    "url": "https://www.bandsintown.com/e/100868383?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Presale",
+        "url": "https://www.bandsintown.com/t/100868386?app_id=codingbootcamp&came_from=267&custom=true&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Riverbend Music Center",
+      "country": "United States",
+      "region": "OH",
+      "city": "Cincinnati",
+      "latitude": "39.0520583",
+      "longitude": "-84.4188258"
+    },
+    "datetime": "2019-08-18T19:00:41",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Korn",
+      "Alice in Chains",
+      "Underoath"
+    ],
+    "id": "100868386",
+    "artist_id": "57",
+    "url": "https://www.bandsintown.com/e/100868386?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100868388?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Ruoff Home Mortgage Music Center",
+      "country": "United States",
+      "region": "IN",
+      "city": "Noblesville",
+      "latitude": "40.0049695",
+      "longitude": "-85.9310716"
+    },
+    "datetime": "2019-08-20T19:00:54",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Korn",
+      "Alice in Chains",
+      "Underoath"
+    ],
+    "id": "100868388",
+    "artist_id": "57",
+    "url": "https://www.bandsintown.com/e/100868388?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100868391?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Hollywood Casino Amphitheatre",
+      "country": "United States",
+      "region": "IL",
+      "city": "Tinley Park",
+      "latitude": "41.596405",
+      "longitude": "-87.785119"
+    },
+    "datetime": "2019-08-21T19:00:51",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Korn",
+      "Alice in Chains",
+      "Underoath"
+    ],
+    "id": "100868391",
+    "artist_id": "57",
+    "url": "https://www.bandsintown.com/e/100868391?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100868399?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Hollywood Casino Amphitheatre - St. Louis",
+      "country": "United States",
+      "region": "MO",
+      "city": "Maryland Heights",
+      "latitude": "38.7444922",
+      "longitude": "-90.4696029"
+    },
+    "datetime": "2019-08-23T19:00:43",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Korn",
+      "Alice in Chains",
+      "Underoath"
+    ],
+    "id": "100868399",
+    "artist_id": "57",
+    "url": "https://www.bandsintown.com/e/100868399?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100868404?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Pepsi Center",
+      "country": "United States",
+      "region": "CO",
+      "city": "Denver",
+      "latitude": "39.7486389",
+      "longitude": "-105.0075285"
+    },
+    "datetime": "2019-08-25T19:00:40",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Korn",
+      "Alice in Chains",
+      "Underoath"
+    ],
+    "id": "100868404",
+    "artist_id": "57",
+    "url": "https://www.bandsintown.com/e/100868404?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100868406?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Isleta Amphitheater",
+      "country": "United States",
+      "region": "NM",
+      "city": "Albuquerque",
+      "latitude": "34.998181",
+      "longitude": "-106.621937"
+    },
+    "datetime": "2019-08-27T19:00:48",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Korn",
+      "Alice in Chains",
+      "Underoath"
+    ],
+    "id": "100868406",
+    "artist_id": "57",
+    "url": "https://www.bandsintown.com/e/100868406?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100868409?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "FivePoint Amphitheatre",
+      "country": "United States",
+      "region": "CA",
+      "city": "Irvine",
+      "latitude": "33.6583205",
+      "longitude": "-117.7306058"
+    },
+    "datetime": "2019-08-30T19:00:31",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Korn",
+      "Alice in Chains",
+      "Underoath"
+    ],
+    "id": "100868409",
+    "artist_id": "57",
+    "url": "https://www.bandsintown.com/e/100868409?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100868414?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Ak-Chin Pavilion",
+      "country": "United States",
+      "region": "AZ",
+      "city": "Phoenix",
+      "latitude": "33.469711",
+      "longitude": "-112.237808"
+    },
+    "datetime": "2019-08-31T19:00:05",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Korn",
+      "Alice in Chains",
+      "Underoath"
+    ],
+    "id": "100868414",
+    "artist_id": "57",
+    "url": "https://www.bandsintown.com/e/100868414?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100868417?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "North Island Credit Union Ampitheatre",
+      "country": "United States",
+      "region": "CA",
+      "city": "Chula Vista",
+      "latitude": "32.589367",
+      "longitude": "-117.00653"
+    },
+    "datetime": "2019-09-02T19:00:00",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Korn",
+      "Alice in Chains",
+      "Underoath"
+    ],
+    "id": "100868417",
+    "artist_id": "57",
+    "url": "https://www.bandsintown.com/e/100868417?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100868421?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Shoreline Amphitheatre",
+      "country": "United States",
+      "region": "CA",
+      "city": "Mountain View",
+      "latitude": "37.4268129",
+      "longitude": "-122.0807711"
+    },
+    "datetime": "2019-09-04T19:00:01",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Korn",
+      "Alice in Chains",
+      "Underoath"
+    ],
+    "id": "100868421",
+    "artist_id": "57",
+    "url": "https://www.bandsintown.com/e/100868421?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/101087790?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Aftershock Festival",
+      "country": "United States",
+      "region": "CA",
+      "city": "Sacramento",
+      "latitude": "38.605708",
+      "longitude": "-121.5038858"
+    },
+    "datetime": "2019-10-13T19:00:56",
+    "on_sale_datetime": "2019-04-26T12:00:36",
+    "description": "",
+    "lineup": [
+      "Korn"
+    ],
+    "id": "101087790",
+    "artist_id": "57",
+    "url": "https://www.bandsintown.com/e/101087790?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  }
+]
