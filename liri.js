@@ -30,7 +30,7 @@ switch (input) {
                         var location = "Location: " + response.data[i].venue.city + ", " + response.data[i].venue.region + '\n';
                         var date = moment(response.data[i].venue.datetime).format("MM/DD/YYYY");
                         var dateDisplay = "Date: " + date + '\n';
-                        
+
                         var concertInfo = venue + location + dateDisplay + '\n';
                         console.log(concertInfo);
                         fs.appendFile("log.txt", concertInfo, function (err) {
@@ -40,7 +40,7 @@ switch (input) {
                                 return console.log(err);
                             }
                         });
-                        
+
                     }
                     console.log("search history was updated!");
                 })
@@ -158,7 +158,7 @@ switch (input) {
                             if (i === 0) {
                                 console.log("Artist(s): " + response.tracks.items[0].artists[i].name);
                                 var artist = "Artist(s): " + response.tracks.items[0].artists[i].name + '\n';
-        
+
                             } else {
                                 console.log(" " + response.tracks.items[0].artists[i].name);
                             }
@@ -176,10 +176,10 @@ switch (input) {
                         var search = '\n' + "Keyword(s) used for search: " + song + '\n';
                         var songName = "Song: " + response.tracks.items[0].name + '\n';
                         var album = "Album: " + response.tracks.items[0].album.name + '\n';
-        
-        
+
+
                         fs.appendFile("log.txt", search + artist + songName + album + previewText, function (err) {
-        
+
                             // If the code experiences any errors it will log the error to the console.
                             if (err) {
                                 return console.log(err);
